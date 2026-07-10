@@ -15,7 +15,7 @@
     </properties>
 	<dependencies>
 		<dependency>
-			<groupId>javax.servlet</groupId>
+			<groupId>jakarta.servlet</groupId>
 			<artifactId>servlet-api</artifactId>
 			<version>4.0.1</version>
 		</dependency>
